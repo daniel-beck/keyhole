@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <name>Jenkins Events</name>
+    <description>Jenkins Events</description>
+    <Placemark>
+      <name>Bay Area Meetup</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-121.922854,37.369837</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PRAQMA</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>12.356985,55.870447</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

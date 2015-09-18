@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <name>Jenkins Users</name>
+    <description>Jenkins Users</description>
+    <Placemark>
+      <name>Bob</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-72.421116,41.873221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Joe</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>12.616180,47.137749</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Danny</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-121.04242,36.342151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frank</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>10.005355,53.566108</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
